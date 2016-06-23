@@ -12,6 +12,9 @@
 		887BE6FF1D1B9C8C00757F5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 887BE6FD1D1B9C8C00757F5E /* Main.storyboard */; };
 		887BE7011D1B9C8C00757F5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 887BE7001D1B9C8C00757F5E /* Assets.xcassets */; };
 		887BE7041D1B9C8C00757F5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 887BE7021D1B9C8C00757F5E /* LaunchScreen.storyboard */; };
+		887BE70E1D1B9D8900757F5E /* evening320.png in Resources */ = {isa = PBXBuildFile; fileRef = 887BE70B1D1B9D8900757F5E /* evening320.png */; };
+		887BE70F1D1B9D8900757F5E /* morning320.png in Resources */ = {isa = PBXBuildFile; fileRef = 887BE70C1D1B9D8900757F5E /* morning320.png */; };
+		887BE7101D1B9D8900757F5E /* night320.png in Resources */ = {isa = PBXBuildFile; fileRef = 887BE70D1D1B9D8900757F5E /* night320.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		887BE7001D1B9C8C00757F5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		887BE7031D1B9C8C00757F5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		887BE7051D1B9C8D00757F5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		887BE70B1D1B9D8900757F5E /* evening320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = evening320.png; sourceTree = "<group>"; };
+		887BE70C1D1B9D8900757F5E /* morning320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = morning320.png; sourceTree = "<group>"; };
+		887BE70D1D1B9D8900757F5E /* night320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = night320.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				887BE6F91D1B9C8C00757F5E /* AppDelegate.swift */,
 				887BE6FB1D1B9C8C00757F5E /* ViewController.swift */,
 				887BE6FD1D1B9C8C00757F5E /* Main.storyboard */,
+				887BE70B1D1B9D8900757F5E /* evening320.png */,
+				887BE70C1D1B9D8900757F5E /* morning320.png */,
+				887BE70D1D1B9D8900757F5E /* night320.png */,
 				887BE7001D1B9C8C00757F5E /* Assets.xcassets */,
 				887BE7021D1B9C8C00757F5E /* LaunchScreen.storyboard */,
 				887BE7051D1B9C8D00757F5E /* Info.plist */,
@@ -124,6 +133,9 @@
 			files = (
 				887BE7041D1B9C8C00757F5E /* LaunchScreen.storyboard in Resources */,
 				887BE7011D1B9C8C00757F5E /* Assets.xcassets in Resources */,
+				887BE7101D1B9D8900757F5E /* night320.png in Resources */,
+				887BE70E1D1B9D8900757F5E /* evening320.png in Resources */,
+				887BE70F1D1B9D8900757F5E /* morning320.png in Resources */,
 				887BE6FF1D1B9C8C00757F5E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

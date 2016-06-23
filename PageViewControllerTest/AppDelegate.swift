@@ -1,9 +1,5 @@
 //
 //  AppDelegate.swift
-//  PageViewControllerTest
-//
-//  Created by 齋藤緒 on 2016/06/22.
-//  Copyright © 2016年 TestOrganization. All rights reserved.
 //
 
 import UIKit
